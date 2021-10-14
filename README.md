@@ -12,7 +12,6 @@ Länk till figma-skiss: https://www.figma.com/file/17K5C4r4E0VBgiRt1HqmhK/cv-sid
 Strukturella komponenter:
    
     >header
-   
         >logga
         >karaktärsnamn
     >p
