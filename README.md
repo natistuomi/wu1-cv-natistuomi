@@ -8,6 +8,8 @@ Fonter (sans serif):
 
 Analoga skisser: (Se folder "skisser") 
 
+Logotyp: (Se folder "images")
+
 Länk till figma-skiss: https://www.figma.com/file/17K5C4r4E0VBgiRt1HqmhK/cv-sida?node-id=0%3A1 
 
 Strukturella komponenter:
