@@ -20,6 +20,8 @@ main{
 
 body {
     background-color: #f0f0f0;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 .back-to-top_wrapper {
@@ -47,7 +49,7 @@ a {
 
 footer {
     padding-top: 2rem;
-    padding-bottom: 2rem;
+    padding-bottom: 1rem;
 }
 
 .header_aside {
