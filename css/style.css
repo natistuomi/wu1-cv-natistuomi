@@ -61,7 +61,7 @@ footer {
     justify-content: center;
 }
 
-.section_aside {
+.main_sec {
     display: flex;
     padding-bottom: 25px;
     justify-content:center;
@@ -71,14 +71,6 @@ aside {
     padding-left: 1rem;
 }
 
-h1 {
-    font-size: 50px;
-    margin-top: auto;
-    margin-bottom: auto;
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
 h2, h3, ul, p{
     margin-top: auto;
     margin-bottom: auto;
@@ -86,32 +78,37 @@ h2, h3, ul, p{
     padding-bottom: 5px;
 }
 
+h1 {
+    font-size: 50px;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: fight-to-the-finish-bb, sans-serif;
+}
+
 ul {
     padding-bottom: 25px;
 }
 
-.figcap {
-    line-height: .75;
-    margin-top: 0;
+h2 {
     padding-top: 0;
+    margin-top: 0;
+    line-height: .75;
 }
 
-hr {
-    color: #f0f0f0;
-    height: 2px;
-    background-color: #f0f0f0;
+.left {
+    padding-right: 20px;
 }
 
-h1 {
-    font-family: fight-to-the-finish-bb, sans-serif;
+.right {
+    border-style: solid;
+    border-width: 1px;
+    border-left-color: "f0f0f0";
+    border-right-color: #000080;
+    border-top-color: #000080;
+    border-bottom-color: #000080;
 }
 
-.refs {
-    display: flex;
-    justify-content: center;
-}
 
-.js, .bw {
-    padding-right: 25px;
-}
 
