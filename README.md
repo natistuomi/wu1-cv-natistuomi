@@ -48,3 +48,12 @@ Sidan blev inte tillfredsställande och fick därför en helt ny layout än plan
 
 
 Se folder "tidigare" för bilder av den tidigare versionen.
+
+
+Snabb reflektion:
+
+Arbetet i sig gick ganska bra även om jag ändrade planen helt mitt i. Det gick smidigt både att markera själva texten, men också att skapa strukturen. CSS var lite mer problematiskt då mycket gick på att skriva en rad, testa, göra om, osv. framtills man blev nöjd med resultatet. Flexbox var defintivt utmanande. Det var däremot inte att få det att fungera som var problemet. Jag var helt enkelt inte nöjd med linjeringen mellan bild och text förrän många försök att fixa det. CSS är inte alltid enkelt och det skulle vara kul att få lite mer insikt i vad man kan göra med det utanför det uppenbara.
+
+Jag undersökte dessutom hur sidan ser ut på mobil. Den är fullt fungerande och lätt att navigera. Det blev däremellan lättare att läsa texten om man vred på mobilen till liggande läge. Det är något som jag inte lade speciellt mycket tanke eller tid på, så jag är knappast förvånad. Om någonting skulle jag tycka att det är vad jag skulle vilja lära mig mer om. Webbutveckling till olika skärmupplösningar.
+
+Både gått genom Wave och validering. Ingenting dök upp av Wave och validatorn pekade inte på några bekymmer som störde sidan. Validering tyckte däremot inte om hur vissa av mina strukturmoment inte hade headings.
