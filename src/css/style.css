@@ -8,7 +8,7 @@ p, a, h1, h2{
 }
 
 body {
-    --container-width: 100vw;
+    --container-width: 98vw;
     width: min(var(--container-width), 100vw - 1rem);
     margin-inline: auto;
     color: var(--color-blue);
