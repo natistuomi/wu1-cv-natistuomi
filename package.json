@@ -1,0 +1,24 @@
+{
+  "name": "wu1-cv-natistuomi",
+  "version": "1.0.0",
+  "description": "Färger: #000080 (mörkblå) & #f0f0f0 (vit)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natistuomi/wu1-cv-natistuomi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natistuomi/wu1-cv-natistuomi/issues"
+  },
+  "homepage": "https://github.com/natistuomi/wu1-cv-natistuomi#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  }
+}

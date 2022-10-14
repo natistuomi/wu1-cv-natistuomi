@@ -5,8 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Barbara Gordon</title>
-    <link rel="icon" type="image/png" href="images/bg_favicon.png">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/png" href="../images/bg_favicon.png">
+    <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://use.typekit.net/ktz1chy.css">
 </head>
 <body>
@@ -14,7 +14,7 @@
     <main>   
 
         <header class="header_aside">
-            <img src="images/bg_responsiv.png" width=40 alt="BG logo">
+            <img src="../images/bg_responsiv.png" width=40 alt="BG logo">
             <aside>
                 <h1>Barbara Gordon</h1>
             </aside>
@@ -99,7 +99,7 @@
             <aside class="right">
 
                 <section>
-                    <img src="images/redhead.jpg" width=200 alt="Redhaired woman">
+                    <img src="../images/redhead.jpg" width=200 alt="Redhaired woman">
                     <h3>Contact information</h3>
                     <p>Phone: +(1) 1966 1966</p>
                     <p>Email: barbara@gordon.it</p>
