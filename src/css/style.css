@@ -19,6 +19,7 @@ header{
     align-items: center;
     justify-content: center;
     border: solid 5px var(--color-blue);
+    text-align: center;
 }
 
 .bg{
@@ -90,8 +91,9 @@ section{
     flex-grow: .5;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    text-justify: center;
     align-items: center;
+    border: solid 1px var(--color-blue);
 }
 
 .refs{
@@ -108,10 +110,7 @@ section{
 }
 
 @media(max-width: 800px){
-    .refs{
-        flex-direction: column;
-    }
-    section{
+    .refs, section{
         flex-direction: column;
     }
     body{
@@ -119,8 +118,5 @@ section{
     }
     .profile{
         width: 100%;
-    }
-    header{
-        text-align: center;
     }
 }
