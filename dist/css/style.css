@@ -45,6 +45,7 @@ nav > ul {
     gap: 2rem;
     font-size: 30px;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 footer{
@@ -53,6 +54,7 @@ footer{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: center;
 }
 
 p{
@@ -103,4 +105,22 @@ section{
     color: var(--color-white);
     padding: 2rem;
     border-radius: 1rem;
+}
+
+@media(max-width: 800px){
+    .refs{
+        flex-direction: column;
+    }
+    section{
+        flex-direction: column;
+    }
+    body{
+        width: (100vw - 2rem);
+    }
+    .profile{
+        width: 100%;
+    }
+    header{
+        text-align: center;
+    }
 }
