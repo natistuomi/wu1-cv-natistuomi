@@ -35,16 +35,3 @@ title: Barbara Gordon
 * Adjusting curriculum to each individual’s needs
 * Working with and around people of extraordinary eccentricity
 * Occasionally leaving the job description behind to solve household problems of unnecessarily surreal nature
-
-
-## Education
-* Ph.D in library science, Gotham State University
-* Ph.D in history, Gotham State University
-* Master of laws, Harvard University
-
-
-## Skills
-* Highly reliable eidetic memory
-* Trained in several martial arts
-* Extremely proficient with computers
-* Fluent in English and Spanish

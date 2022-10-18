@@ -13,7 +13,15 @@
     {% include "header.njk" %}
     {% include "navigation.njk" %}
     <main>
-        {{ content | safe }}
+        {% include "card.njk" %}
+        <div id="work">
+            <div class="work">
+                {{ content | safe }}
+            </div>
+            <div>
+                {% include "ref.njk" %}
+            </div>
+        </div>
     </main>
     {% include "footer.njk" %}
 </body>

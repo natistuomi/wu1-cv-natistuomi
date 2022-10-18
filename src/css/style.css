@@ -30,11 +30,11 @@ header{
 h1{
     font-family: fight-to-the-finish-bb, sans-serif;
     font-size: 80px;
-    color: var(--color-blue);
 }
 
 h2{
     font-family: fight-to-the-finish-bb, sans-serif;
+    margin-top: 1rem;
 }
 
 nav > ul {
@@ -58,4 +58,49 @@ footer{
 p{
     margin-top: 2px ;
     margin-bottom: 2px;
+}
+
+main{
+    width: min(120ch, 100vw - 2rem);
+    margin-inline: auto;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+section{
+    display: flex;
+}
+
+.profile{
+    flex-grow: .5;
+}
+
+.work{
+    margin-top: 2rem;
+}
+
+.card-side{
+    flex-grow: .5;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.refs{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ref{
+    background-color: var(--color-blue);
+    color: var(--color-white);
+    padding: 2rem;
+    border-radius: 1rem;
 }
